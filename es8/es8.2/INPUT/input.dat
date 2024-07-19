@@ -1,0 +1,8 @@
+DELTA                  0.237
+NBLOCKS                1000
+NSTEPS                 400
+TERMALSTEPS            1000
+
+ENDINPUT
+
+# ln -s nomefilelink(es: gasinput.dat) nomelink(input.dat)

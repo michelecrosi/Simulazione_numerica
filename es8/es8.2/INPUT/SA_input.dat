@@ -1,0 +1,11 @@
+DELTA                                      0.5
+N_TEMPERATURE                              1000
+Final_Temp                                 0.001
+Initial_Temp                               1.1
+ITERATION_PER_TEMPERATURE                  10
+Initial_mu                                 0.05
+Initial_sigma                              0.1
+
+ENDINPUT
+
+# ln -s nomefilelink(es: gasinput.dat) nomelink(input.dat)

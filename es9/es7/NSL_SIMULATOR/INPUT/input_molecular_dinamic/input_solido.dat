@@ -1,0 +1,13 @@
+SIMULATION_TYPE        0
+RESTART                0
+TEMP                   1.55
+NPART                  108
+RHO                    1.1
+R_CUT                  2.2
+DELTA                  0.0005
+NBLOCKS                200
+NSTEPS                 2000
+
+ENDINPUT
+
+# ln -s nomefilelink(es: gasinput.dat) nomelink(input.dat)
