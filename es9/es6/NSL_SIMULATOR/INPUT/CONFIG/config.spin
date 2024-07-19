@@ -1,1 +1,0 @@
-./h:0.02/Metropolis/config_finale_T:0.5.spin
